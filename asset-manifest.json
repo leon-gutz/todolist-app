@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leon-gutz/todolist-app/static/css/main.9b141201.css",
-    "main.js": "/leon-gutz/todolist-app/static/js/main.e0b13266.js",
-    "static/media/authorIcon.png": "/leon-gutz/todolist-app/static/media/authorIcon.50b0b86dc1f9273159ba.png",
-    "static/media/ubIcon.png": "/leon-gutz/todolist-app/static/media/ubIcon.885e0a0ab3092fd36840.png",
-    "index.html": "/leon-gutz/todolist-app/index.html",
-    "main.9b141201.css.map": "/leon-gutz/todolist-app/static/css/main.9b141201.css.map",
-    "main.e0b13266.js.map": "/leon-gutz/todolist-app/static/js/main.e0b13266.js.map"
+    "main.css": "/todolist-app/static/css/main.9b141201.css",
+    "main.js": "/todolist-app/static/js/main.b261de90.js",
+    "static/media/authorIcon.png": "/todolist-app/static/media/authorIcon.50b0b86dc1f9273159ba.png",
+    "static/media/ubIcon.png": "/todolist-app/static/media/ubIcon.885e0a0ab3092fd36840.png",
+    "index.html": "/todolist-app/index.html",
+    "main.9b141201.css.map": "/todolist-app/static/css/main.9b141201.css.map",
+    "main.b261de90.js.map": "/todolist-app/static/js/main.b261de90.js.map"
   },
   "entrypoints": [
     "static/css/main.9b141201.css",
-    "static/js/main.e0b13266.js"
+    "static/js/main.b261de90.js"
   ]
 }
